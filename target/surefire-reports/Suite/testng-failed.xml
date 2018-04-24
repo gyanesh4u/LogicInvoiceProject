@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.logicinvoice.scripts.TestLogin">
+        <methods>
+          <include name="testLogin"/>
+          <include name="closeApplication"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.logicinvoice.scripts.TestLogin -->
+      <class name="com.logicinvoice.scripts.TestCustomer">
+        <methods>
+          <include name="closeApplication"/>
+          <include name="openCustomerPage"/>
+          <include name="openApplication"/>
+        </methods>
+      </class> <!-- com.logicinvoice.scripts.TestCustomer -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

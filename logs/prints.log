@@ -1,0 +1,6 @@
+01:13:52.788 [main] DEBUG com.logicinvoice.scripts.TestCustomer - Creating an object of Dashboard pom class
+01:13:52.801 [main] INFO  com.logicinvoice.scripts.TestCustomer - DashBoardPage class Object created successfully
+01:13:52.801 [main] DEBUG com.logicinvoice.scripts.TestCustomer - Mouse hover on dollar menu
+01:13:52.858 [main] INFO  com.logicinvoice.scripts.TestCustomer - successfully mouse hover
+01:13:52.858 [main] DEBUG com.logicinvoice.scripts.TestCustomer - click on Customer menu
+01:13:53.120 [main] INFO  com.logicinvoice.scripts.TestCustomer - click on customers successfully

@@ -1,0 +1,8 @@
+com\logicinvoice\scripts\TestCustomer.class
+com\logicinvoice\generics\Utility.class
+com\logicinvoice\generics\BaseTest.class
+com\logicinvoice\pompages\CustomersPage.class
+com\logicinvoice\generics\IAutoConstant.class
+com\logicinvoice\pompages\LoginPage.class
+com\logicinvoice\pompages\DashboardPage.class
+com\logicinvoice\scripts\TestLogin.class
